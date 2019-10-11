@@ -1,0 +1,5 @@
+config sim7600ce
+   tristate "Add 4G SIM7600CE support"
+   default y
+   help
+      Support for 4G.
